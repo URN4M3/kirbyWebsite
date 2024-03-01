@@ -1,0 +1,74 @@
+
+body {
+	background-color: pink;
+}
+
+h1 {
+	text-align: center;
+}
+
+nav {
+	text-align: center;
+	color: black;
+	background-color: #ff8fc0;
+}
+
+nav a {
+	text-decoration: none;
+	color: black;
+	display: inline-block;
+	font-size: 1em;
+	font-weight: bold;
+	margin: 2em 1em 0 0;
+	padding: 0 0 2em;
+}
+
+footer  {
+	text-align: center;
+	background-color: lightblue;
+	color: black;
+}
+
+footer a {
+	text-decoration: none;
+	color: black;
+	display: inline-block;
+	font-size: 1em;
+	font-weight: bold;
+	margin: 2em 1em 0 0;
+	padding: 0 0 2em;
+}
+
+#hero_index {
+	background-image: url("../images/index.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: #fff;
+	min-height: 450px;
+}
+
+#hero_studio {
+	background-image: url("../images/characteristics.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 450px;
+}
+
+#hero_event {
+	background-image: url("../images/conceptCreate.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 450px;
+}
+
+#hero_currency {
+	background-image: url("../images/appearances.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 450px;
+}
+
+main {
+	color: black;
+	font-size: 1.25em;
+}
